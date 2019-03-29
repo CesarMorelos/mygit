@@ -13,7 +13,7 @@ crities = {
         'FL': 'Jacksonville'               
 }
 
-#cities['NY'] = 'New York'
+    cities['NY'] = 'New York'
     cities['OR'] = 'Portland'
     
      
